@@ -12,3 +12,7 @@ https://www.youtube.com/playlist?list=PLK0H4or1Vl6nHu7eZvd0Ke38oH4xWuHVn
 
 Splunk Training | Introduction to Splunk | Intellipaat
 https://youtu.be/bpP2tZPoK8M
+
+## Tutorial
+https://docs.splunk.com/Documentation/Splunk/9.0.0/SearchTutorial/InstallSplunk
+https://docs.splunk.com/Documentation/Splunk/latest/SearchTutorial/WelcometotheSearchTutorial
