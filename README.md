@@ -15,3 +15,7 @@ https://www.splunk.com/zh_cn/get-started/enterprise.html
 https://www.examtopics.com/exams/giac/gcih/
 
 https://www.giac.org/certifications/continuous-monitoring-certification-gmon/
+
+https://www.examtopics.com/exams/splunk/splk-1001/
+
+https://www.examtopics.com/exams/splunk/splk-1002/
