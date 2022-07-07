@@ -1,5 +1,5 @@
 
-/bin Directory
+### /bin Directory
 
 It is the directory where the binary files of the executable commands are located. The executable binary files of the basic commands are located under this directory.
 
