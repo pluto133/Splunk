@@ -1,4 +1,13 @@
+# Linux File System Hierarchy
 
+>  What is Filesystem Hierarchy? 
+
+As in every operating system, Linux has a filing system as well. Everything in the Linux operating system consists of files. When all the files come together, they form all the components of the operating system. Files are in a grouped order by directories. In Linux, directories are in a hierarchical order. Hierarchical order means that one directory can be above or below another. In the Linux operating system, the directory structure must conform to a certain standard. The main directories in Linux and what they are used for are explained below.
+
+
+> "/" - Root Directory
+
+The directory used as the top directory in the entire file hierarchy in Linux is the "Root Directory". The root directory is expressed with “/” and each directory to be written to the right is under the root directory. For example, the “/bin” directory means the directory named "bin” under the “/” directory. In other words, a parent directory of the "bin" directory is the "/"(root directory).
 ### /bin Directory
 
 It is the directory where the binary files of the executable commands are located. The executable binary files of the basic commands are located under this directory.
